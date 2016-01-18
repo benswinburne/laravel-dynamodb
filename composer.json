@@ -1,0 +1,15 @@
+{
+    "name": "swinburne/dynamodb",
+    "description": "A DynamoDb database driver for Laravel 5",
+    "require": {
+        "aws/aws-sdk-php": "^3.13"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Swinburne",
+            "email": "ben.swinburne@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
